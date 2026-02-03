@@ -65,4 +65,5 @@ Manual setup helped understand AWS Console, while Terraform helped understand au
 
 ## Author
 
-Name: Fuzail Ahmad
+Name: Fuzail Ahamad
+
